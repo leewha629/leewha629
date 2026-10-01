@@ -1,21 +1,13 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="leewha629 — computes catalysts, builds the tools around them" width="100%">
+  <img src="assets/hero.svg" alt="leewha629 — Catalysis, Simulation, Tools" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" alt="A little about me" width="100%">
+  <img src="assets/about.svg" alt="Work: Simulation (DFT, MLIP, CFD), Tools, HPC, Agents, CAD" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/menu.svg" alt="On the menu: simulation, research tools, HPC pipelines, agent workflows, fabrication" width="100%">
+  <img src="assets/toolbox.svg" alt="Stack: Quantum ESPRESSO, CP2K, FAIRChem, SLURM, Python, FastAPI, React, SQLAlchemy, OpenSCAD, Claude Code, Codex, Ollama" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/toolbox.svg" alt="In the toolbox: Quantum ESPRESSO, CP2K, FAIRChem, CFD, Python, FastAPI, React, SQLAlchemy, SLURM, OpenSCAD, Claude Code, Codex, Ollama" width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" alt="Structure over instructions — plan, build, gate, review, ship" width="100%">
-</p>
-
-<p align="center"><sub>Most of my work lives in private repositories.</sub></p>
+<p align="center"><sub>Most repositories are private.</sub></p>
